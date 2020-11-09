@@ -1,7 +1,7 @@
 /**
  * Realization of AI interface using simplistic random placement strategy.
  *
- * @author INSERT YOUR NAME(S) HERE
+ * @author Nazia Tabassum Toma
  */
 
 import java.util.Random;
